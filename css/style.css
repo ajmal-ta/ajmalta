@@ -295,11 +295,14 @@ input#name, input#email, input#name1 {
 	color:red!important;
 }
 section.comment-w3l h4 {
-	font-size:25px;
-	font-weight:normal;
-	color:#fff;
-	padding-bottom:10px;
-	text-transform:capitalize;
+	font-size: 29px;
+    font-weight: inherit;
+    color: #fff;
+    padding-bottom: 46px;
+    text-transform: capitalize;
+    padding-top: 17px;
+    text-align: center;
+	
 }
 section.comment-w3l button.btn.btn-primary {
     background-color: #fff;
@@ -1163,7 +1166,8 @@ img.zoom-img:hover {
 		font-size: 35px;
 	}
 	.comment-agile2 {
-		margin-top: 40px;
+		margin-top: 30px;
+		margin-left: 10px;
 	}
 	input#name, input#email, input#name1 {
 		height: 48px;
@@ -1530,4 +1534,14 @@ img.zoom-img:hover {
 		min-height: 360px;
 	}
 }
+
+.more-contact{
+	margin-top: 50rem;
+
+}
+.comment-agile2 span:hover{
+	color: #ed1b2e;
+
+}
+
 /*-- //responsive design --*/
